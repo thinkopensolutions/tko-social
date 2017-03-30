@@ -7,8 +7,10 @@ Issue Description
 
 When Imap Server is called and email_from field is not set with your account.alias but the email is in your email server, Odoo generates the following issue:
 
-**Routing: posting a message without model should be with a parent_id (private mesage).**
+Routing: posting a message without model should be with a parent_id (private mesage).
 
+
+**Examples taken from logs after I added prints in the file and fetch emails:**
 
 [...] **CORRECT SET TAKEN FROM LOG**
 
