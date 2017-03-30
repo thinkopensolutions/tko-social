@@ -1,7 +1,7 @@
 tko_fix_mail_private_message_exception
 =======
 
-Issue Description:
+Issue Description
 ----------
 
 
@@ -29,7 +29,7 @@ alias: [None]
 
 [...]
 
-Solution:
+Solution
 ----------
 
 When Imap Server is called for account.alias, and email_from is not set on your email correctly, this module overides email_from with your account.alias for you to receive the email.
