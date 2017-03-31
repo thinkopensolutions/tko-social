@@ -2,7 +2,7 @@
 {
     'name': 'Check mail immediately',
     'version': '1.0.1',
-    'author': 'Ivan Yelizariev, ThinkOpen Solutions Brasl',
+    'author': 'Ivan Yelizariev, ThinkOpen Solutions Brasil',
     'license': 'LGPL-3',
     "category": "Discuss",
     "support": "apps@it-projects.info",
