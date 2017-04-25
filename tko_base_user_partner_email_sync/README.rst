@@ -21,4 +21,4 @@ Maintainer
 
 This module is maintained by ThinkOpen Solutions.
 
-To contribute to this module, please visit https://github.com/thinkopensolutions/tkobr-social
+To contribute to this module, please visit https://github.com/thinkopensolutions/tko-social
