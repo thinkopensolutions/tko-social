@@ -1,9 +1,10 @@
 TKO Mail Message Sort Order
 ===========================
 
-**Description**:
+Description
+-----------
 
-## Invert Order of mail.message sort order on Discuss Submenus ##
+Invert sort order of mail.message on Discuss Submenus
 
 Credits
 =======
