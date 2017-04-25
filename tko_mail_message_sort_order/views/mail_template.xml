@@ -1,0 +1,9 @@
+<odoo>
+	<data>
+		<template id="assets_backend_FF" name="mail assets" inherit_id="web.assets_backend">
+			<xpath expr="." position="inside">
+				<script type="text/javascript" src="/tko_mail_message_sort_order/static/src/js/customize_thread.js"></script>
+			</xpath>
+		</template>
+	</data>
+</odoo>
