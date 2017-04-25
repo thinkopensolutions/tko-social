@@ -12,6 +12,7 @@ Contributors
 ------------
 
  * Alexandre Rüffer <alexandre.ruffer@tkobr.com>
+ * Purnendu Singh <purnendusingh@geminatecs.com>
 
 Maintainer
 ----------
@@ -20,4 +21,4 @@ Maintainer
 
 This module is maintained by ThinkOpen Solutions.
 
-To contribute to this module, please visit https://github.com/thinkopensolutions/tkobr-addons-private
+To contribute to this module, please visit https://github.com/thinkopensolutions/tko-social
