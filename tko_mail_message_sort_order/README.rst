@@ -17,8 +17,8 @@ Contributors
 Maintainer
 ----------
 
-![alt tag](http://tkobr.tkobr.com/logo.png)
+![TKO](https://tkobr.tkobr.com/website/image/ir.attachment/50170_af65c50/datas)
 
-This module is maintained by ThinkOpen Solutions.
+This module is maintained by TKO.
 
 To contribute to this module, please visit https://github.com/thinkopensolutions/tko-social
