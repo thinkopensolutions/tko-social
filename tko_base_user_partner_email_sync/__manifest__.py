@@ -1,14 +1,17 @@
 # -*- coding: utf-8 -*-
-# © 2016-17 Geminate Consultancy Services
-# License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl.html).
+#    OpenERP, Open Source Management Solution
+#    Copyright (C) 2004-2010 Tiny SPRL (<http://tiny.be>).
+#    Thinkopen - Brasil
+#    Copyright (C) Thinkopen Solutions (<http://www.thinkopensolutions.com.br>)
+# License AGPL-3 - See http://www.gnu.org/licenses/agpl-3.0.html
 
 {
     'name'      : 'Tko Base User Partner Email Sync',
-    'version'   : '1.0',
-    'category'  : 'Website',
+    'version'   : '10.0.0.0.0',
+    'category'  : 'Mail',
     "license"   : "AGPL-3", 
-    'author'    : 'Geminate Consultancy Services',
-    'website'   : 'www.geminatecs.com',
+    'author'    : 'TKO',
+    'website'   : 'tko.tko-uk.com',
     'depends'   :  ['base'],
     'data'      :  [],
     'installable': True,
