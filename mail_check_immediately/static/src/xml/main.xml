@@ -1,49 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <templates>
-<!--     <t t-name="fetch_mail_immediately.header">
-        <tr class="oe_header_row">
-            <td t-att-colspan="colspan or '3'">
-                <div class="oe_view_manager_fetch_mail_imm">
-                    <em>
-                    <span id="fetch_mail_immediately">Mails fetched:</span>
-                    <a href="#" class="oe_fetch_new_mails" title="Click to fetch mails now">
+    <t t-extend="mail.chat.ControlButtons">
+       <t t-jquery=".o_mail_chat_button_new_message" t-operation="after">
+           <div class="oe_view_manager_fetch_mail_imm" style="display: inline-block;">
+               <em>
+               <span id="fetch_mail_immediately">Mails fetched:</span>
+               <a href="#" class="oe_fetch_new_mails" title="Click to fetch mails now">
                     <span class="oe_view_manager_fetch_mail_imm_field"></span>
-                    </a>
-                    </em>
-                </div>
-            </td>
-            <td></td>
-        </tr>
-    </t>
-    <t t-extend="ControlPanel">
-        <t t-jquery="div.container-fluid > :nth-child(2)" t-operation="append">
-            <t t-call="fetch_mail_immediately.header">
-                <t t-set="colspan" t-value="2"/>
-            </t>
+               </a>
+               </em>
+           </div>
         </t>
-    </t> -->
-
-    <t t-name="ControlPanel">
-        <div class="o_control_panel">
-        <ol class="breadcrumb"/>
-        <div class="o_cp_searchview"/>
-        <div class="o_cp_left">
-            <div class="o_cp_buttons"/>
-           <div class="oe_view_manager_fetch_mail_imm">
-                    <em>
-                    <span id="fetch_mail_immediately">Mails fetched:</span>
-                    <a href="#" class="oe_fetch_new_mails" title="Click to fetch mails now">
-                    <span class="oe_view_manager_fetch_mail_imm_field"></span>
-                    </a>
-                    </em>
-                </div>
-        </div>
-        <div class="o_cp_right">
-            <div class="btn-group o_search_options"/>
-            <div class="o_cp_pager"/>
-            <div class="btn-group btn-group-sm o_cp_switch_buttons"/>
-        </div>
-        </div>
     </t>
-
 </templates>
