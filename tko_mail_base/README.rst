@@ -1,9 +1,9 @@
-TKO Mail Message Sort Order
-===========================
+TKO SaaS Base Modules
+===================
 
 **Description**:
 
-## Invert Order of mail.message sort order on Discuss Submenus ##
+## Installs Core modules for Mail environment ##
 
 Credits
 =======
