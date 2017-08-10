@@ -6,12 +6,12 @@
 # License AGPL-3 - See http://www.gnu.org/licenses/agpl-3.0.html
 
 {
-    'name'      : 'Tko Mail Message Sort Order',
+    'name'      : 'TKO Mail Message Sort Order',
     'version'   : '1.0',
     'category'  : 'mail',
     'license'   : 'AGPL-3', 
-    'author'    : 'Geminate Consultancy Services',
-    'website'   : 'www.geminatecs.com',
+    'author'    : 'TKO',
+    'website'   : 'tko.tko-uk.com',
     'depends'   :  ['mail'],
     'data'      :  ['views/mail_template.xml'],
     
