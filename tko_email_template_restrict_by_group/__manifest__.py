@@ -4,7 +4,9 @@
 {
     'name': 'Mail Templates Security',
     'summary': '',
-    'description': 'Adds restrictions configuration by user groups on mail templates therefore allowing to see and use them within their access.',
+    'description': """Adds restrictions configuration by user groups on mail
+                      templates therefore allowing to see and use them within
+                      their access.""",
     'author': 'TKO',
     'category': 'Discuss',
     'license': 'AGPL-3',
