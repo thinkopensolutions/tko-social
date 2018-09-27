@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="compose_mail_asset" name="Compose Mail" inherit_id="web.assets_backend">
+       <xpath expr="." position="inside">
+           <script type="text/javascript" src="/tko_compose_mail/static/src/js/compose_mail.js"></script>
+           <link rel="stylesheet" href="/tko_compose_mail/static/src/css/compose_mail.css"/>
+       </xpath>
+    </template>
+
+</odoo>

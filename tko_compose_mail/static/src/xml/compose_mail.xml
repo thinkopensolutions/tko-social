@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+
+    <t t-name="ComposeMailTray">
+        <li class="o_mail_navbar_item compose_mail">
+            <a title="Compose Mail">
+                <i class="fa compose_mail fa-envelope-open"/>
+            </a>
+        </li>
+    </t>
+</template>
